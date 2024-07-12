@@ -19,7 +19,7 @@ The Analytical project is divided into five stages
 2.  Development of conceptual masses to build an energy model 
 3.  Analysis of model with different building energy measures 
 4.  Visualization of Result 
-5.  Recomendations 
+5.  Recomendations. 
 
 ### Meteorological data analysis
 With the use of Grasshope definitions and python programming language, the wind, sunlight, temperature and outdoor comfort of three different locations in Nigeria was analysed from the year 1960 - 2020. Few of the analysis visuals are displayed below.
@@ -40,17 +40,3 @@ With the use of Grasshope definitions and python programming language, the wind,
 
 #### Outdoor Temperature (Bauchi, Nigeria)
 ##### ![Temperature](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Temperature.jpg)
-
-
-### Result Visualization
-After application of different passive measures to the conceptual model, suitable passive measures were identified as workable suitable measures for comfortable energy efficient residential building in Nigeria.
-
-#### Indoor temperature with air conditioning system
-##### ![Cooling operative temperature](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Cooling%20operative%20temperature.jpg)
-
-
-#### Indoor operative temperature with recommended passive measures
-##### ![Natural ventialation temp.](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Natural%20ventilation%20operative%20temperature.jpg)
-
-#### Energy Balance
-##### ![Energy Balance](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Energy%20Balance.jpg)
