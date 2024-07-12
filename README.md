@@ -3,8 +3,7 @@
 
 
 ## INTRODUCTION
-##### This research analytical project focus is to develop passive measures for energy efficient residential building in warm climate using Nigeria as Nigeria as a case study. Many residential buildings in Nigeria depends on air conditioning system to cool their building which in 
-##### turns increase the energy consumption of the buildings. This data analytical research is to recommend measures that can make a residential building cool without the use of air conditioning system. This research relied on many years of weather history for the energy model simulation.
+##### This research analytical project focus is to develop passive measures for energy efficient residential building in warm climate using Nigeria as Nigeria as a case study. Many residential buildings in Nigeria depends on air conditioning system to cool their building which in turns increase the energy consumption of the buildings. This data analytical research is to recommend measures that can make a residential building cool without the use of air conditioning system. This research relied on many years of weather history for the energy model simulation.
 
 
 The Analytical project is divided into five stages 
