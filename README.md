@@ -2,7 +2,7 @@
 ## Developed a building model and used meteorological data with conceptual models and analytical tools to predict energy efficient measures for residential buildings in Nigeria, Africa.
 
 ### Analytical Tools
-* Phyton
+* Phyton(pandas)
 * Grasshopper
 * Ladybug tools
 * Energyplus
