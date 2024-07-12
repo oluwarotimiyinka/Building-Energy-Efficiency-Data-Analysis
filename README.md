@@ -16,4 +16,4 @@ The Analytical project is divided into five stages
 ### Meteorological data analysis
 With the use of Grasshope definitions and python programming language, the wind, sunlight, temperature and outdoor comfort of three different locations in Nigeria was analysed from the year 1960 - 2020. Few of the analysis visuals are displayed below.
 
-#!(https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Wind%20and%20Sun.jpg)
+# !(https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Wind%20and%20Sun.jpg)
