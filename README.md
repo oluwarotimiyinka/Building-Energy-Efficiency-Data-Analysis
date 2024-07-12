@@ -1,5 +1,5 @@
 # Building-Energy-Efficiency-Data-Analysis
-## Developed a building model and used meteorological data with analytical models and analytical tools to predict energy efficient measures for residential buildings in Nigeria, Africa.
+## Developed a building model and used meteorological data with conceptual models and analytical tools to predict energy efficient measures for residential buildings in Nigeria, Africa.
 
 
 ### INTRODUCTION
@@ -12,3 +12,8 @@ The Analytical project is divided into five stages
 3.  Analysis of model with different building energy measures 
 4.  Visualization of Result 
 5.  Recomendations 
+
+### Meteorological data analysis
+With the use of Grasshope definitions and python programming language, the wind, sunlight, temperature and outdoor comfort of three different locations in Nigeria was analysed from the year 1960 - 2020. Few of the analysis visuals are displayed below.
+
+! https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Wind%20and%20Sun.jpg
