@@ -16,4 +16,19 @@ The Analytical project is divided into five stages
 ### Meteorological data analysis
 With the use of Grasshope definitions and python programming language, the wind, sunlight, temperature and outdoor comfort of three different locations in Nigeria was analysed from the year 1960 - 2020. Few of the analysis visuals are displayed below.
 
+
+
+#### Outdoor thermal comfort (Bauchi, Nigeria)
 ##### ![wind and sun analysis](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Wind%20and%20Sun.jpg)
+
+
+#### Wind Rose chart (Bauchi, Nigeria)
+##### ![Wind rose](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/windrose.jpg)
+
+
+####  Outdoor Humidity level (Bauchi, Nigeria)
+##### ![Humidity](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/humidity.jpg)
+
+
+#### Outdoor Temperature (Bauchi, Nigeria)
+##### ![Temperature](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Temperature.jpg)
