@@ -29,7 +29,7 @@ With the use of Grasshope definitions and python programming language, the wind,
 
 
 #### Outdoor thermal comfort (Bauchi, Nigeria)
-##### ![wind and sun analysis](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Wind%20and%20Sun.jpg)
+## ![wind and sun analysis](https://github.com/oluwarotimiyinka/Building-Energy-Efficiency-Data-Analysis/blob/main/Bauchi%20images/Wind%20and%20Sun.jpg)
 
 
 #### Wind Rose chart (Bauchi, Nigeria)
